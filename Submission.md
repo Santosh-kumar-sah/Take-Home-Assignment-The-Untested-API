@@ -49,3 +49,8 @@ All files     | 94.03% Stmts | 88.09% Branch | 93.1% Funcs | 93.43% Lines
 Total Tests: 36
 Test Suites: 3
 Status: All Passing
+
+
+### Important Note
+API uses in-memory data, so:
+Data resets on restart 
